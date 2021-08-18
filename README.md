@@ -1,8 +1,51 @@
-### Hi there 👋
+<div align="center">
+    <h3>Iago Carvalho 💻<h3>
+    <h3> FullStack Developer</h3>
+</div>
+    <h2> Sobre mim: </h2>
+<div>
+    <ul>
+        <li>
+            Nome: Iago Carvalho
+        </li>
+        <li>
+            Idade: 25
+        </li>
+        <li>
+            Localização: Rio de Janeiro, Brasil. 
+        </li>
+        <li>
+            Universidade: Análise e Desenvolvimento de Sistemas - Centro Universitário Carioca
+        </li>
+        <li>
+            Dev Júnior na 
+            <a href="http://www.karyon.com.br/">Karyon</a>
+        </li>
+    <ul>
+</div>
+<h2>O que estou fazendo no momento? </h2>
+<div>
+  <p>
+    Nos meus estudos estou buscando aprender conceitos importantes e boas práticas de PHP, reforçar minha base de HTML/CSS e por fim      aprender sobre Laravel e Vue.JS.
+  </p>
+  <p>
+    Na minha carreira estou atuando como Desenvolvedor Júnior na Karyon, onde trabalho com Delphi para desktop e PHP para web. 
+  </p>
+</div>
+
+<h3> Fale comigo: </h3>
+<div align="center">
+    <a target='_blank' href="https://www.linkedin.com/in/iago-carvalho/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
+
+
 
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<h3>O que estou fazendo no momento? </h3>
-<hr>
+
+
+
