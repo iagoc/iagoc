@@ -19,7 +19,7 @@
         </li>
         <li>
             Dev Júnior na 
-            <a href="http://www.karyon.com.br/">Karyon</a>
+            <a href="">Stone Age</a>
         </li>
     <ul>
 </div>
