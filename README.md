@@ -18,8 +18,7 @@
             Universidade: Análise e Desenvolvimento de Sistemas - Centro Universitário Carioca
         </li>
         <li>
-            Dev Júnior na 
-            <a href="">Stone Age</a>
+            Dev Júnior na Stone Age
         </li>
     <ul>
 </div>
@@ -29,7 +28,7 @@
     Nos meus estudos estou buscando aprender conceitos importantes e boas práticas de PHP, reforçar minha base de HTML/CSS e por fim      aprender sobre Laravel e Vue.JS.
   </p>
   <p>
-    Na minha carreira estou atuando como Desenvolvedor Júnior na Karyon, onde trabalho com Delphi para desktop e PHP para web. 
+    Na minha carreira estou atuando como Desenvolvedor Júnior na Stone Age, onde trabalho com NodeJS. 
   </p>
 </div>
 
