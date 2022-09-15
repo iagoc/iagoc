@@ -33,7 +33,7 @@
 </div>
 
 <h3> Fale comigo: </h3>
-<div align="center">
+<div align="left">
     <a target='_blank' href="https://www.linkedin.com/in/iago-carvalho/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
