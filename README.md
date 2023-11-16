@@ -9,7 +9,7 @@
             Nome: Iago Carvalho
         </li>
         <li>
-            Idade: 26
+            Idade: 27
         </li>
         <li>
             Localização: Rio de Janeiro, Brasil. 
@@ -25,10 +25,10 @@
 <h2>O que estou fazendo no momento? </h2>
 <div>
   <p>
-    Nos meus estudos estou buscando aprender conceitos importantes e boas práticas de Javascript, reforçar minha base de HTML/CSS.
+    Nos meus estudos estou buscando aprender conceitos importantes e boas práticas em Javascript e AWS.
   </p>
   <p>
-    Na minha carreira estou atuando como Desenvolvedor Júnior na Stone Age, onde trabalho com NodeJS. 
+    Na minha carreira estou atuando como Desenvolvedor Júnior na Stone Age, onde trabalho com Node, TypeScript, AWS, e MySQL.
   </p>
 </div>
 
