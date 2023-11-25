@@ -1,3 +1,3 @@
 - 👨🏻‍💻 I'm current working on [Stone Age](https://stoneage.com.br) as a full-stack developer using Javascript / Typescript stack
-- 📖 I'm learning and improving my skills on Javascript stack and AWS.
+- 📖 I'm learning and improving my skills in Javascript and AWS.
 - 📬 How to reach me: [Linkedin](https://www.linkedin.com/in/iago-carvalho/)
